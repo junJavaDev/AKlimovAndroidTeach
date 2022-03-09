@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">A.Klimov Android Teach</string>
+    <string name="sayHi">Поздороваться</string>
+    <string name="count_kot">Считаем ворон</string>
+    <string name="count_dog">Считаем собак</string>
+    <string name="counter_kot">Я насчитал ${++counter} ворон</string>
+    <string name="hi">Привет, кошка</string>
+    <string name="red">Красный</string>
+    <string name="yellow">Жёлтый</string>
+    <string name="green">Зелёный</string>
+
+</resources>
